@@ -1,0 +1,278 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Agencia\\Agencia.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Agencia\\Agencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Agencia\\Agencia.csproj",
+        "projectName": "Agencia",
+        "projectPath": "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Agencia\\Agencia.csproj",
+        "packagesPath": "C:\\Users\\mele_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Agencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mele_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Bussines\\Bussines.csproj": {
+                "projectPath": "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Bussines\\Bussines.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Font.Awesome": {
+              "target": "Package",
+              "version": "[5.15.3, )"
+            },
+            "FontAwesome": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[5.15.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Bussines\\Bussines.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Bussines\\Bussines.csproj",
+        "projectName": "Bussines",
+        "projectPath": "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Bussines\\Bussines.csproj",
+        "packagesPath": "C:\\Users\\mele_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Bussines\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mele_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\mele_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mele_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\mele_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mele_\\OneDrive\\Documents\\GitHub\\tpPlataformas2da\\TP4 ORM\\Agencia\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mele_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

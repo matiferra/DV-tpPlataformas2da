@@ -1,0 +1,582 @@
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.exe
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.deps.json
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.runtimeconfig.json
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.runtimeconfig.dev.json
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\ref\Agencia.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.pdb
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Form1.resources
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.GenerateResource.cache
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.AssemblyInfoInputs.cache
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.AssemblyInfo.cs
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.CoreCompileInputs.cache
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\ref\Agencia.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.pdb
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.genruntimeconfig.cache
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Humanizer.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.CopyComplete
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\DataAccess.dll
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\DataAccess.pdb
+E:\Users\work\Desktop\lpalalalal\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.AssemblyReference.cache
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.exe
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.deps.json
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.runtimeconfig.json
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.runtimeconfig.dev.json
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\ref\Agencia.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.pdb
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Humanizer.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\DataAccess.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\DataAccess.pdb
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csprojAssemblyReference.cache
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.GenerateResource.cache
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.AssemblyInfoInputs.cache
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.AssemblyInfo.cs
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.CoreCompileInputs.cache
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.CopyComplete
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\ref\Agencia.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.pdb
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.genruntimeconfig.cache
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.AssemblyReference.cache
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmAlojamientos.resources
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Administrador.resources
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmReservas.resources
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmUsuarios.resources
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.BusquedaAlojamiento.resources
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.RecuperarContraseña.resources
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Cliente.resources
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.EditarAlojamiento.resources
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.EditarUsuario.resources
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Form1.resources
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Login.resources
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.RegistroUsuario.resources
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.ReservasCliente.resources
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.ResultadoBusqueda.resources
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.GenerateResource.cache
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.AssemblyInfoInputs.cache
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.AssemblyInfo.cs
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.CoreCompileInputs.cache
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\ref\Agencia.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.pdb
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.exe
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.deps.json
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.runtimeconfig.json
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.runtimeconfig.dev.json
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\ref\Agencia.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.pdb
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Humanizer.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\DataAccess.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\DataAccess.pdb
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.CopyComplete
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.genruntimeconfig.cache
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Bussines.dll
+E:\Users\work\Desktop\la posta\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Bussines.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.exe
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.deps.json
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.runtimeconfig.json
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.runtimeconfig.dev.json
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\ref\Agencia.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Bussines.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\DataAccess.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Bussines.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\DataAccess.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csprojAssemblyReference.cache
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmAlojamientos.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Administrador.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmReservas.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmUsuarios.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.BusquedaAlojamiento.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.RecuperarContraseña.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Cliente.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.EditarAlojamiento.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.EditarUsuario.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Form1.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Login.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.RegistroUsuario.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.ReservasCliente.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.ResultadoBusqueda.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.GenerateResource.cache
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.AssemblyInfoInputs.cache
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.AssemblyInfo.cs
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.CoreCompileInputs.cache
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.CopyComplete
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\ref\Agencia.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.genruntimeconfig.cache
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.exe
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.deps.json
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.runtimeconfig.json
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.runtimeconfig.dev.json
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\ref\Agencia.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.pdb
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Humanizer.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Bussines.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\DataAccess.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Bussines.pdb
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\DataAccess.pdb
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.AssemblyReference.cache
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmAlojamientos.resources
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Administrador.resources
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmReservas.resources
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmUsuarios.resources
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.BusquedaAlojamiento.resources
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.RecuperarContraseña.resources
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Cliente.resources
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.EditarAlojamiento.resources
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.EditarUsuario.resources
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Form1.resources
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Login.resources
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.RegistroUsuario.resources
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.ReservasCliente.resources
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.ResultadoBusqueda.resources
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.GenerateResource.cache
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.AssemblyInfoInputs.cache
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.AssemblyInfo.cs
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.CoreCompileInputs.cache
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.CopyComplete
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\ref\Agencia.dll
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.pdb
+E:\Users\work\Desktop\entrega final\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.genruntimeconfig.cache
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Bussines.dll
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Bussines.pdb
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmAlojamientos.resources
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Administrador.resources
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmReservas.resources
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmUsuarios.resources
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.BusquedaAlojamiento.resources
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.RecuperarContraseña.resources
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Cliente.resources
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.EditarAlojamiento.resources
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.EditarUsuario.resources
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Form1.resources
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Login.resources
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.RegistroUsuario.resources
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.ReservasCliente.resources
+D:\Gabo\Facultad\Davinci\4to Cuatrimestre\Plataformas de Desarrollo\Trabajo Practico Nro4\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.ResultadoBusqueda.resources
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.exe
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.deps.json
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.runtimeconfig.json
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.runtimeconfig.dev.json
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\ref\Agencia.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.pdb
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Bussines.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\DataAccess.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Bussines.pdb
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\DataAccess.pdb
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csprojAssemblyReference.cache
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmAlojamientos.resources
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Administrador.resources
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmReservas.resources
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmUsuarios.resources
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.BusquedaAlojamiento.resources
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.RecuperarContraseña.resources
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Cliente.resources
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.EditarAlojamiento.resources
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.EditarUsuario.resources
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Form1.resources
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Login.resources
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.RegistroUsuario.resources
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.ReservasCliente.resources
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.ResultadoBusqueda.resources
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.GenerateResource.cache
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.AssemblyInfoInputs.cache
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.AssemblyInfo.cs
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.CoreCompileInputs.cache
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.CopyComplete
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\ref\Agencia.dll
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.pdb
+C:\Users\BGH\Source\Repos\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.genruntimeconfig.cache
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.exe
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.deps.json
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.runtimeconfig.json
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.runtimeconfig.dev.json
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\ref\Agencia.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.pdb
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Humanizer.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Bussines.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\DataAccess.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Bussines.pdb
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\DataAccess.pdb
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.AssemblyReference.cache
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmAlojamientos.resources
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Administrador.resources
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmReservas.resources
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmUsuarios.resources
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.BusquedaAlojamiento.resources
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.RecuperarContraseña.resources
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Cliente.resources
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.EditarAlojamiento.resources
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.EditarUsuario.resources
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Form1.resources
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Login.resources
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.RegistroUsuario.resources
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.ReservasCliente.resources
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.ResultadoBusqueda.resources
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.GenerateResource.cache
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.AssemblyInfoInputs.cache
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.AssemblyInfo.cs
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.CoreCompileInputs.cache
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.CopyComplete
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\ref\Agencia.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.pdb
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.genruntimeconfig.cache
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Entities.dll
+E:\Users\work\Desktop\Nueva carpeta (2)\tpPlataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Entities.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Entities.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tp4Plataformas\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Entities.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.exe
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.deps.json
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.runtimeconfig.json
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.runtimeconfig.dev.json
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\ref\Agencia.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Agencia.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Bussines.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\DataAccess.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Entities.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Bussines.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\DataAccess.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\bin\Debug\net5.0-windows\Entities.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csprojAssemblyReference.cache
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmAlojamientos.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Administrador.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmReservas.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.AdmUsuarios.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.BusquedaAlojamiento.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.RecuperarContraseña.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Cliente.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.EditarAlojamiento.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.EditarUsuario.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.Form1.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Login.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.RegistroUsuario.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.ReservasCliente.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.Views.ResultadoBusqueda.resources
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.GenerateResource.cache
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.AssemblyInfoInputs.cache
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.AssemblyInfo.cs
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.CoreCompileInputs.cache
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.csproj.CopyComplete
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\ref\Agencia.dll
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.pdb
+C:\Users\mele_\OneDrive\Documents\GitHub\tpPlataformas2da\TP4 ORM\Agencia\Agencia\obj\Debug\net5.0-windows\Agencia.genruntimeconfig.cache
