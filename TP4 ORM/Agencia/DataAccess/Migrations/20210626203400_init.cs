@@ -21,19 +21,6 @@ namespace DataAccess.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "TipoAlojamiento",
-                columns: table => new
-                {
-                    id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    nombre = table.Column<string>(type: "nvarchar(max)", nullable: true)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_TipoAlojamiento", x => x.id);
-                });
-
-            migrationBuilder.CreateTable(
                 name: "Usuario",
                 columns: table => new
                 {
@@ -58,6 +45,7 @@ namespace DataAccess.Migrations
                 {
                     id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
+                    nombre = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     barrio = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     estrellas = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     cantidadDePersonas = table.Column<int>(type: "int", nullable: false),
@@ -85,6 +73,7 @@ namespace DataAccess.Migrations
                 {
                     id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
+                    nombre = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     barrio = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     estrellas = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     cantidadDePersonas = table.Column<int>(type: "int", nullable: false),
@@ -100,36 +89,6 @@ namespace DataAccess.Migrations
                         name: "FK_Hotel_Ciudades_ciudadid",
                         column: x => x.ciudadid,
                         principalTable: "Ciudades",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Restrict);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "Reserva",
-                columns: table => new
-                {
-                    id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    contador = table.Column<int>(type: "int", nullable: false),
-                    FDesde = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    FHasta = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    tipoAlojamientoid = table.Column<int>(type: "int", nullable: true),
-                    usuarioid = table.Column<int>(type: "int", nullable: true),
-                    precio = table.Column<float>(type: "real", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Reserva", x => x.id);
-                    table.ForeignKey(
-                        name: "FK_Reserva_TipoAlojamiento_tipoAlojamientoid",
-                        column: x => x.tipoAlojamientoid,
-                        principalTable: "TipoAlojamiento",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Restrict);
-                    table.ForeignKey(
-                        name: "FK_Reserva_Usuario_usuarioid",
-                        column: x => x.usuarioid,
-                        principalTable: "Usuario",
                         principalColumn: "id",
                         onDelete: ReferentialAction.Restrict);
                 });
@@ -157,6 +116,42 @@ namespace DataAccess.Migrations
                         name: "FK_Agencia_Hotel_hotelid",
                         column: x => x.hotelid,
                         principalTable: "Hotel",
+                        principalColumn: "id",
+                        onDelete: ReferentialAction.Restrict);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Reserva",
+                columns: table => new
+                {
+                    id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    FDesde = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    FHasta = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    usuarioid = table.Column<int>(type: "int", nullable: true),
+                    precio = table.Column<float>(type: "real", nullable: false),
+                    cabaniaid = table.Column<int>(type: "int", nullable: true),
+                    hotelid = table.Column<int>(type: "int", nullable: true)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Reserva", x => x.id);
+                    table.ForeignKey(
+                        name: "FK_Reserva_Cabania_cabaniaid",
+                        column: x => x.cabaniaid,
+                        principalTable: "Cabania",
+                        principalColumn: "id",
+                        onDelete: ReferentialAction.Restrict);
+                    table.ForeignKey(
+                        name: "FK_Reserva_Hotel_hotelid",
+                        column: x => x.hotelid,
+                        principalTable: "Hotel",
+                        principalColumn: "id",
+                        onDelete: ReferentialAction.Restrict);
+                    table.ForeignKey(
+                        name: "FK_Reserva_Usuario_usuarioid",
+                        column: x => x.usuarioid,
+                        principalTable: "Usuario",
                         principalColumn: "id",
                         onDelete: ReferentialAction.Restrict);
                 });
@@ -251,9 +246,14 @@ namespace DataAccess.Migrations
                 column: "ciudadid");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Reserva_tipoAlojamientoid",
+                name: "IX_Reserva_cabaniaid",
                 table: "Reserva",
-                column: "tipoAlojamientoid");
+                column: "cabaniaid");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Reserva_hotelid",
+                table: "Reserva",
+                column: "hotelid");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Reserva_usuarioid",
@@ -277,9 +277,6 @@ namespace DataAccess.Migrations
 
             migrationBuilder.DropTable(
                 name: "Hotel");
-
-            migrationBuilder.DropTable(
-                name: "TipoAlojamiento");
 
             migrationBuilder.DropTable(
                 name: "Usuario");

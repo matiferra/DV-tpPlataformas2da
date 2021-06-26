@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DataAccess.Migrations
 {
     [DbContext(typeof(MyContext))]
-    [Migration("20210626150500_init")]
+    [Migration("20210626203400_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -98,6 +98,9 @@ namespace DataAccess.Migrations
                     b.Property<double>("habitaciones")
                         .HasColumnType("float");
 
+                    b.Property<string>("nombre")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<double>("precio_por_dia")
                         .HasColumnType("float");
 
@@ -175,6 +178,9 @@ namespace DataAccess.Migrations
                     b.Property<string>("estrellas")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("nombre")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<double>("precio_por_persona")
                         .HasColumnType("float");
 
@@ -204,40 +210,27 @@ namespace DataAccess.Migrations
                     b.Property<DateTime>("FHasta")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("contador")
+                    b.Property<int?>("cabaniaid")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("hotelid")
                         .HasColumnType("int");
 
                     b.Property<float>("precio")
                         .HasColumnType("real");
-
-                    b.Property<int?>("tipoAlojamientoid")
-                        .HasColumnType("int");
 
                     b.Property<int?>("usuarioid")
                         .HasColumnType("int");
 
                     b.HasKey("id");
 
-                    b.HasIndex("tipoAlojamientoid");
+                    b.HasIndex("cabaniaid");
+
+                    b.HasIndex("hotelid");
 
                     b.HasIndex("usuarioid");
 
                     b.ToTable("Reserva");
-                });
-
-            modelBuilder.Entity("Entities.TipoAlojamiento", b =>
-                {
-                    b.Property<int>("id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<string>("nombre")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("id");
-
-                    b.ToTable("TipoAlojamiento");
                 });
 
             modelBuilder.Entity("Entities.Usuario", b =>
@@ -353,15 +346,21 @@ namespace DataAccess.Migrations
 
             modelBuilder.Entity("Entities.Reserva", b =>
                 {
-                    b.HasOne("Entities.TipoAlojamiento", "tipoAlojamiento")
+                    b.HasOne("Entities.Cabania", "cabania")
                         .WithMany()
-                        .HasForeignKey("tipoAlojamientoid");
+                        .HasForeignKey("cabaniaid");
+
+                    b.HasOne("Entities.Hotel", "hotel")
+                        .WithMany()
+                        .HasForeignKey("hotelid");
 
                     b.HasOne("Entities.Usuario", "usuario")
                         .WithMany()
                         .HasForeignKey("usuarioid");
 
-                    b.Navigation("tipoAlojamiento");
+                    b.Navigation("cabania");
+
+                    b.Navigation("hotel");
 
                     b.Navigation("usuario");
                 });

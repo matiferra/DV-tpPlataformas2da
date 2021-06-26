@@ -14,6 +14,7 @@ namespace Bussines
         private DbSet<Entities.Usuario> misUsuarios;
         private DbSet<Entities.Hotel> hoteles;
         private DbSet<Entities.Cabania> cabanias;
+        private DbSet<Entities.Ciudades> ciudades;
         private DbSet<Entities.Reserva> reservas;
         private MyContext contexto;
 
@@ -23,7 +24,6 @@ namespace Bussines
         }
 
 
-
         private void inicializarAtributos()
         {
             try
@@ -31,11 +31,13 @@ namespace Bussines
                 contexto = new MyContext();
 
                 contexto.Usuario.Load();
+                contexto.Ciudades.Load();
                 contexto.Hotel.Load();
                 contexto.Cabania.Load();
                 contexto.Reserva.Load();
 
                 misUsuarios = contexto.Usuario;
+                ciudades = contexto.Ciudades;
                 hoteles = contexto.Hotel;
                 cabanias = contexto.Cabania;
                 reservas = contexto.Reserva;
@@ -63,12 +65,12 @@ namespace Bussines
             List<List<string>> alojamientos = new List<List<string>>();
             foreach (Entities.Hotel hotel in queryHotel)
             {
-                alojamientos.Add(new List<string> { hotel.barrio, hotel.estrellas, hotel.cantidadDePersonas.ToString(), hotel.ciudad.nombre.ToString(), hotel.precio_por_persona.ToString() });
+                alojamientos.Add(new List<string> { hotel.nombre, hotel.barrio, hotel.estrellas, hotel.cantidadDePersonas.ToString(), hotel.ciudad.nombre.ToString(), hotel.precio_por_persona.ToString() });
             }
 
             foreach (Entities.Cabania cabania in queryCabania)
             {
-                alojamientos.Add(new List<string> { cabania.barrio, cabania.estrellas, cabania.cantidadDePersonas.ToString(), cabania.ciudad.ToString(), cabania.cantidadDeBanios.ToString(), cabania.habitaciones.ToString(), cabania.precio_por_dia.ToString() });
+                alojamientos.Add(new List<string> { cabania.nombre, cabania.barrio, cabania.estrellas, cabania.cantidadDePersonas.ToString(), cabania.ciudad.ToString(), cabania.cantidadDeBanios.ToString(), cabania.habitaciones.ToString(), cabania.precio_por_dia.ToString() });
             }
 
             return alojamientos;
@@ -85,12 +87,12 @@ namespace Bussines
             List<List<string>> alojamientos = new List<List<string>>();
             foreach (Entities.Hotel hotel in queryHotel)
             {
-                alojamientos.Add(new List<string> { hotel.barrio, hotel.estrellas, hotel.cantidadDePersonas.ToString(), hotel.ciudad.nombre.ToString(), hotel.precio_por_persona.ToString() });
+                alojamientos.Add(new List<string> { hotel.nombre, hotel.barrio, hotel.estrellas, hotel.cantidadDePersonas.ToString(), hotel.ciudad.nombre.ToString(), hotel.precio_por_persona.ToString() });
             }
 
             foreach (Entities.Cabania cabania in queryCabania)
             {
-                alojamientos.Add(new List<string> { cabania.barrio, cabania.estrellas, cabania.cantidadDePersonas.ToString(), cabania.ciudad.ToString(), cabania.cantidadDeBanios.ToString(), cabania.habitaciones.ToString(), cabania.precio_por_dia.ToString() });
+                alojamientos.Add(new List<string> { cabania.nombre, cabania.barrio, cabania.estrellas, cabania.cantidadDePersonas.ToString(), cabania.ciudad.ToString(), cabania.cantidadDeBanios.ToString(), cabania.habitaciones.ToString(), cabania.precio_por_dia.ToString() });
             }
 
             return alojamientos;
@@ -117,7 +119,7 @@ namespace Bussines
 
                 foreach (Entities.Hotel hotel in queryHotel)
                 {
-                    alojamientos.Add(new List<string> { hotel.barrio, hotel.estrellas, hotel.cantidadDePersonas.ToString(), hotel.ciudad.nombre.ToString(), hotel.precio_por_persona.ToString() });
+                    alojamientos.Add(new List<string> { hotel.nombre, hotel.barrio, hotel.estrellas, hotel.cantidadDePersonas.ToString(), hotel.ciudad.nombre.ToString(), hotel.precio_por_persona.ToString() });
                 }
             }
             else
@@ -130,16 +132,12 @@ namespace Bussines
 
                 foreach (Entities.Cabania cabania in queryCabania)
                 {
-                    alojamientos.Add(new List<string> { cabania.barrio, cabania.estrellas, cabania.cantidadDePersonas.ToString(), cabania.ciudad.ToString(), cabania.cantidadDeBanios.ToString(), cabania.habitaciones.ToString(), cabania.precio_por_dia.ToString() });
+                    alojamientos.Add(new List<string> { cabania.nombre, cabania.barrio, cabania.estrellas, cabania.cantidadDePersonas.ToString(), cabania.ciudad.ToString(), cabania.cantidadDeBanios.ToString(), cabania.habitaciones.ToString(), cabania.precio_por_dia.ToString() });
                 }
             }
 
             return alojamientos;
         }
-
-
-
-
 
 
         public List<Entities.Ciudades> getCiudades()
@@ -148,33 +146,36 @@ namespace Bussines
 
             var query = from ciudad in ciudades
                         select ciudad;
-            return ciudades;
 
             foreach (Entities.Ciudades ciudad in query)
             {
                 ciudades.Add(ciudad);
             }
+            return ciudades;
+
         }
 
-        public bool agregarAlojamiento(string tipo, string ciudad, string barrio, string estrellas, string cantPersonas, bool tv, string precio, string habitaciones, string banios) //Parametro Datos del Alojamiento ¿?
+        public bool agregarAlojamiento(string tipo, string ciudadNombre, string nombre, string barrio, string estrellas, string cantPersonas, bool tv, string precio, string habitaciones, string banios) //Parametro Datos del Alojamiento ¿?
         {
-            bool result;
-            /*try
+            Entities.Ciudades ciudad = new Entities.Ciudades();
+            ciudad.nombre = ciudadNombre;
+
+            bool result = false;
+            try
             {
                 if (tipo == "Hotel")
                 {
-                    Entities.Alojamiento Alojamiento = new Entities.Alojamiento(
-                    barrio, estrellas, int.Parse(cantPersonas), tv, int.Parse(ciudad), 0,
-                    0, double.Parse(precio), 1, true);
-                    alojamientos.Add(Alojamiento);
+                    Entities.Hotel hotel = new Entities.Hotel(nombre,
+                        barrio, estrellas, int.Parse(cantPersonas), tv, ciudad, double.Parse(precio), false);
+                    hoteles.Add(hotel);
                     contexto.SaveChanges();
                 }
                 else
                 {
-                    Entities.Alojamiento Alojamiento = new Entities.Alojamiento(
-                    barrio, estrellas, int.Parse(cantPersonas), tv, int.Parse(ciudad), int.Parse(habitaciones),
-                    double.Parse(precio), 0, int.Parse(banios), false);
-                    alojamientos.Add(Alojamiento);
+                    Entities.Cabania cabania = new Entities.Cabania(nombre,
+                    barrio, estrellas, int.Parse(cantPersonas), tv, ciudad, int.Parse(banios), double.Parse(precio), int.Parse(habitaciones),
+                     false);
+                    cabanias.Add(cabania);
                     contexto.SaveChanges();
                 }
                 result = true;
@@ -182,15 +183,17 @@ namespace Bussines
             catch
             {
                 result = false;
-            }*/
+            }
 
-            return false;
+            return result;
+
         }
 
-        public bool modificarAlojamiento(string codigoInstancia, string ciudad, string barrio, string estrellas, string cantPersonas, bool tv, string precioxDia,
-                                         string habitaciones, string banios, string precioxPersona)
+        public bool modificarAlojamiento(string ciudadNombre, string nombre, string barrio, string estrellas, string cantPersonas, bool tv, string precioxDia,
+                                         string habitaciones, string banios, string precioxPersona, bool reservado)
         {
-            bool result;
+            bool result = false;
+
             if (string.IsNullOrEmpty(precioxDia))
             {
                 precioxDia = "0";
@@ -208,48 +211,104 @@ namespace Bussines
                 precioxPersona = "0";
             }
 
-            /*
-            try
-            {
-                var alojamiento = contexto.Alojamiento.Find(int.Parse(codigoInstancia));
-                alojamiento.id_ciudad = int.Parse(ciudad);
-                alojamiento.barrio = barrio;
-                alojamiento.estrellas = estrellas;
-                alojamiento.tv = tv;
+            var queryHotel = from hotelDB in hoteles
+                             where hotelDB.nombre == nombre
+                             select hotelDB;
 
-                if (alojamiento.esHotel == true)
+            var queryCabania = from cabania in cabanias
+                               where cabania.nombre == nombre
+                               select cabania;
+
+            if (queryHotel != null)
+            {
+                Entities.Hotel hotel = queryHotel.FirstOrDefault();
+
+                if (hotel != null)
                 {
-                    alojamiento.precio_por_persona = int.Parse(precioxPersona);
+                    hotel.nombre = nombre;
+                    hotel.barrio = barrio;
+                    hotel.estrellas = estrellas;
+                    hotel.cantidadDePersonas = int.Parse(cantPersonas);
+                    hotel.tv = tv;
+                    hotel.ciudad.nombre = ciudadNombre;
+                    hotel.precio_por_persona = double.Parse(precioxPersona);
+                    hotel.reservado = reservado;
+
+                    contexto.Hotel.Update(hotel);
+                    result = true;
                 }
-                else
-                {
-                    alojamiento.cantidadDeBanios = int.Parse(banios);
-                    alojamiento.precio_por_dia = double.Parse(precioxDia);
-                    alojamiento.cantidad_de_habitaciones = int.Parse(habitaciones);
-                }                             
-
-                contexto.Alojamiento.Update(alojamiento);
-                contexto.SaveChanges();
-                result = true;
             }
-            catch (Exception)
+            else if (queryCabania != null)
             {
+                Entities.Cabania cabania = queryCabania.FirstOrDefault();
+
+                if (cabania != null)
+                {
+                    cabania.nombre = nombre;
+                    cabania.barrio = barrio;
+                    cabania.estrellas = estrellas;
+                    cabania.cantidadDePersonas = int.Parse(cantPersonas);
+                    cabania.tv = tv;
+                    cabania.ciudad.nombre = ciudadNombre;
+                    cabania.cantidadDeBanios = int.Parse(banios);
+                    cabania.precio_por_dia = double.Parse(precioxDia);
+                    cabania.habitaciones = int.Parse(habitaciones);
+                    cabania.reservado = reservado;
+
+                    contexto.Cabania.Update(cabania);
+                    result = true;
+                }
+
+            }
+            else
+            {
+                //NO SE ENCONTRO EL ALOJAMIENTO
                 result = false;
-            }*/
+            }
 
-
-
-            return false;
+            if (result)
+            {
+                contexto.SaveChanges();
+            }
+            return result;
         }
 
-        public bool quitarAlojamiento(int codigo)
+        public bool quitarAlojamiento(string nombre)
         {
-            bool result;
-            try
+            bool result = false;
+
+            var queryHotel = from hotelDB in hoteles
+                             where hotelDB.nombre == nombre
+                             select hotelDB;
+
+            var queryCabania = from cabania in cabanias
+                               where cabania.nombre == nombre
+                               select cabania;
+
+
+            if (queryHotel != null)
             {
-                result = true;
+                Entities.Hotel hotel = queryHotel.FirstOrDefault();
+
+                if (hotel != null)
+                {
+                    contexto.Hotel.Remove(hotel);
+                    contexto.SaveChanges();
+                    result = true;
+                }
             }
-            catch (Exception ex)
+            else if (queryCabania != null)
+            {
+                Entities.Cabania cabania = queryCabania.FirstOrDefault();
+
+                if (cabania != null)
+                {
+                    contexto.Cabania.Remove(cabania);
+                    contexto.SaveChanges();
+                    result = true;
+                }
+            }
+            else
             {
                 result = false;
             }
@@ -259,53 +318,175 @@ namespace Bussines
 
 
         // ----------------------- METODOS RESERVAS -----------------------
-        public List<List<string>> buscarReservas(string dni, string fdesde, string fhasta)
+        /*public List<List<string>> buscarReservas(int dni, string fdesde, string fhasta)
         {
-            return null;
+
+            List<List<string>> resultado = new List<List<string>>();
+
+            var query = from reservaDB in reservas
+                        where reservaDB.usuario.DNI == dni
+                        && reservaDB.FDesde >= DateTime.Parse(fdesde)
+                        && reservaDB.FHasta <= DateTime.Parse(fhasta)
+                        select reservaDB;
+
+            foreach (Entities.Reserva reservas in query)
+            {
+                resultado.Add(new List<string> { reservas.FDesde.ToString(), reservas.FHasta.ToString(),
+                    reservas.tipoAlojamiento.nombre, reservas.usuario.DNI.ToString(), reservas.precio.ToString()});
+            }
+
+            return resultado;
+
         }
 
 
 
         public List<List<string>> getTodasLasReservas()
         {
-            return null;
+
+            List<List<string>> resultado = new List<List<string>>();
+
+            var query = from reservaDB in reservas
+                        select reservaDB;
+
+            foreach (Entities.Reserva reservas in query)
+            {
+                resultado.Add(new List<string> { reservas.FDesde.ToString(), reservas.FHasta.ToString(),
+                    reservas.tipoAlojamiento.nombre, reservas.usuario.DNI.ToString(), reservas.precio.ToString()});
+            }
+
+            return resultado;
         }
-        public List<List<string>> getReservasPorCliente(String dni)
+        public List<List<string>> getReservasPorCliente(int dni)
         {
-            return null;
+            List<List<string>> resultado = new List<List<string>>();
+
+            var query = from reservaDB in reservas
+                        where reservaDB.usuario.DNI == dni
+                        select reservaDB;
+
+            foreach (Entities.Reserva reservas in query)
+            {
+                resultado.Add(new List<string> { reservas.FDesde.ToString(), reservas.FHasta.ToString(),
+                    reservas.tipoAlojamiento.nombre, reservas.usuario.DNI.ToString(), reservas.precio.ToString()});
+            }
+
+            return resultado;
         }
 
-        public bool reservar(int codAloj, string dniUsuario, DateTime Fdesde, DateTime Fhasta)
+       /* public bool reservar(string nombre, string dniUsuario, DateTime Fdesde, DateTime Fhasta)
         {
-            //PENDIENTE
 
-            return false;
-        }
 
-        public bool modificarReserva(int ID, DateTime FDesde, DateTime FHasta, Entities.TipoAlojamiento propiedad, Entities.Usuario persona, float precio)//Parametro Datos de Reserva ¿?
+            var queryHotel = from hotelDB in hoteles
+                             where hotelDB.nombre == nombre
+                             select hotelDB;
+
+            var queryCabania = from cabania in cabanias
+                               where cabania.nombre == nombre
+                               select cabania;
+
+
+            if (queryHotel != null)
+            {
+                Entities.Hotel hotel = queryHotel.FirstOrDefault();
+
+                if (hotel != null)
+                {
+                    if (hotel.reservado != true)
+                    {
+                        contexto.Hotel.Remove(hotel);
+                        contexto.SaveChanges();
+                        result = true;
+                    }
+                    
+                }
+            }
+            else if (queryCabania != null)
+            {
+                Entities.Cabania cabania = queryCabania.FirstOrDefault();
+
+                if (cabania != null)
+                {
+                    contexto.Cabania.Remove(cabania);
+                    contexto.SaveChanges();
+                    result = true;
+                }
+            }
+            else
+            {
+                result = false;
+            }
+
+            return result;
+        }*/
+
+       /* public bool modificarReserva(int ID, DateTime FDesde, DateTime FHasta, Entities.TipoAlojamiento propiedad, Entities.Usuario persona, float precio)//Parametro Datos de Reserva ¿?
         {
             bool modificada = false;
-            //PENDIENTE
+
+            var query = from reservaDB in reservas
+                        where reservaDB.id == ID
+                        select reservaDB;
+
+            Entities.Reserva reserva = query.FirstOrDefault();
+
+            if(reserva != null)
+            {
+
+            }
 
             return modificada;
         }
 
         public bool eliminarReserva(int id)
         {
-            //PENDIENTE
-            return false;
-        }
+            bool result = false;
 
+
+            var query = from reservaDB in reservas
+                        where reservaDB.id == id
+                        select reservaDB;
+
+
+
+            if (query != null)
+            {
+                Entities.Reserva reserva = query.FirstOrDefault();
+
+                if (reserva != null)
+                {
+                    contexto.Reserva.Remove(reserva);
+                    contexto.SaveChanges();
+                    result = true;
+                }
+            }
+            else
+            {
+                result = false;
+            }
+
+            return result;
+        }
+       */
 
         // ----------------------- METODOS USUARIOS -----------------------
 
         public List<List<string>> obtenerUsuarios()
         {
+
+            var query = from usuario in misUsuarios
+                        select usuario;
+
+            List<List<string>> usuarios = new List<List<string>>();
+
+            foreach (Entities.Usuario u in query)
+            {
+                usuarios.Add(new List<string> { u.DNI.ToString(), u.nombre, u.mail, u.pass, u.esAdmin.ToString(), u.bloqueado.ToString() });
+            }
             List<List<string>> salida = new List<List<string>>();
 
-            foreach (Entities.Usuario u in misUsuarios)
-                salida.Add(new List<string> { null, null, null, u.DNI.ToString(), u.mail, u.bloqueado.ToString(), u.nombre, u.esAdmin.ToString(), u.pass, u.id.ToString() });
-            return salida;
+            return usuarios;
         }
 
 
@@ -359,18 +540,21 @@ namespace Bussines
         public bool modificarUsuario(int dni, string nombre, string mail, string pass, bool esAdmin, bool bloqueado)
         {
             bool respuesta = false;
-            foreach (Entities.Usuario u in contexto.Usuario)
+
+            var query = from usuarioDB in misUsuarios
+                        where usuarioDB.DNI == dni
+                        select usuarioDB;
+
+            Entities.Usuario u = query.FirstOrDefault();
+            if (u != null)
             {
-                if (u.DNI == dni)
-                {
-                    u.nombre = nombre;
-                    u.mail = mail;
-                    u.pass = pass;
-                    u.esAdmin = esAdmin;
-                    u.bloqueado = bloqueado;
-                    contexto.Usuario.Update(u);
-                    respuesta = true;
-                }
+                u.nombre = nombre;
+                u.mail = mail;
+                u.pass = pass;
+                u.esAdmin = esAdmin;
+                u.bloqueado = bloqueado;
+                contexto.Usuario.Update(u);
+                respuesta = true;
             }
             if (respuesta)
             {
@@ -383,19 +567,28 @@ namespace Bussines
         {
             bool respuesta = false;
 
+            var query = from usuarioDB in misUsuarios
+                        where usuarioDB.id == id
+                        select usuarioDB;
+
+            Entities.Usuario usuario = query.FirstOrDefault();
+
             try
             {
-                var usuario = contexto.Usuario.Find(id);
-                contexto.Usuario.Remove(usuario);
-                contexto.SaveChanges();
-                respuesta = true;
+                if (usuario != null)
+                {
+                    contexto.Usuario.Remove(usuario);
+                    contexto.SaveChanges();
+                    respuesta = true;
+                }
 
-                return respuesta;
             }
             catch (Exception)
             {
-                return false;
+                respuesta = false;
             }
+
+            return respuesta;
         }
 
         public bool autenticar(string nombre, string password)

@@ -191,7 +191,7 @@ namespace Agencia.Views
         private void button1_Click_2(object sender, EventArgs e)
         {
 
-            if (Ag.agregarAlojamiento(tipoAlojamientoCombo.Text, combo_ciudadHeader.SelectedValue.ToString(), barrioText.Text, estrellasText.Text,
+            if (Ag.agregarAlojamiento(tipoAlojamientoCombo.Text, combo_ciudadHeader.SelectedValue.ToString(), "NOMBRE-ALOJAMIENTO",barrioText.Text, estrellasText.Text,
                                    personasText.Text, check_tv.Checked, precioText.Text, habitacionesText.Text, baniosText.Text))
             {
 

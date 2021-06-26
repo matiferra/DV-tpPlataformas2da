@@ -14,12 +14,13 @@ namespace Entities
     public class Reserva
     {
         public int id { get; set; }
-        public int contador { get; set; } = 0;
         public DateTime FDesde { get; set; }
         public DateTime FHasta { get; set; }
-        public TipoAlojamiento tipoAlojamiento { get; set; }
         public Usuario usuario { get; set; }
         public float precio { get; set; }
+        public Cabania cabania { get; set; }
+        public Hotel hotel { get; set; }
+
 
     }
 }

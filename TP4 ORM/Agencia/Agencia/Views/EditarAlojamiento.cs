@@ -37,9 +37,9 @@ namespace Agencia.Views
         }
         private void Agrego_boton_Click(object sender, EventArgs e)
         {
-
-            if (Ag.modificarAlojamiento(id_text.Text, combo_ciudad.SelectedValue.ToString(), barrioText.Text, estrellasText.Text, personasText.Text, check_tv.Checked,
-                                    precioxdiaText.Text, habitacionesText.Text, baniosText.Text, campo_precioxpersona.Text))
+            // RESERVADO ATRIBUTO VER
+            if (Ag.modificarAlojamiento(combo_ciudad.SelectedValue.ToString(), "NOMBREALOJAMIENTO",barrioText.Text, estrellasText.Text, personasText.Text, check_tv.Checked,
+                                    precioxdiaText.Text, habitacionesText.Text, baniosText.Text, campo_precioxpersona.Text, false))
             {
                 MessageBox.Show("Agregado con éxito");
                 agregar();
